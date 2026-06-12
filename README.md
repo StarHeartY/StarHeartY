@@ -4,7 +4,7 @@
 
 ## 👋 关于我
 
-目前就读于<img src="./assets/jnu-logo.svg" width="36" align="left" style="margin-right: 12px;" />暨南大学（JINAN UNIVERSITY)热衷底层技术与跨端架构的独立开发者，
+目前就读于<img src="./assets/JNU-logo.svg" width="24" align="left" style="margin-right: 12px;" /> **暨南大学（JNU）** 热衷底层技术与跨端架构的独立开发者
 
 ## 🚀 项目
 
