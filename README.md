@@ -84,3 +84,11 @@
   </tr>
 </table>
 </div>
+
+## 🐍 我的贡献被吃掉了
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StarHeartY/StarHeartY/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StarHeartY/StarHeartY/output/github-contribution-grid-snake.svg">
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/StarHeartY/StarHeartY/output/github-contribution-grid-snake.svg">
+</picture>
