@@ -19,9 +19,7 @@
 
 ## 👋 关于我
 
-目前就读于 <img src="./assets/JNU-logo.svg" width="20" align="absmiddle" style="margin-right: 12px;" /> **暨南大学（JNU）** ，热衷底层技术与跨端架构的独立开发者。
-
-
+目前就读于 <img src="./assets/JNU-logo.svg" width="20" align="absmiddle" style="margin-right: 12px;" /> **[暨南大学(JNU)](https://www.jnu.edu.cn/)** ，热衷底层技术与跨端架构的独立开发者。
 
 
 ## 🚀 项目
@@ -113,6 +111,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StarHeartY/StarHeartY/output/github-contribution-grid-snake.svg">
   <img alt="snake eating contributions" src="https://raw.githubusercontent.com/StarHeartY/StarHeartY/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-易睿-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yirui-dev)
