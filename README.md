@@ -2,9 +2,27 @@
 
 > 个人开发者
 
+<div align="center">
+  <!-- 个人网站 -->
+  <a href="https://startyi.com">
+    <img src="https://img.shields.io/badge/Website-startyi.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <!-- 邮箱 -->
+  <a href="mailto:yirui.pre@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/yirui-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-Yi_RUI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
 ## 👋 关于我
 
-目前就读于 <img src="./assets/JNU-logo.svg" width="20" align="absmiddle" style="margin-right: 12px;" /> **暨南大学（JNU）** ，热衷底层技术与跨端架构的独立开发者
+目前就读于 <img src="./assets/JNU-logo.svg" width="20" align="absmiddle" style="margin-right: 12px;" /> **暨南大学（JNU）** ，热衷底层技术与跨端架构的独立开发者。
+
+
+
 
 ## 🚀 项目
 
@@ -86,6 +104,7 @@
 [![StarHeartY 的 GitHub 活动图](https://github-readme-activity-graph.vercel.app/graph?username=StarHeartY&bg_color=none&color=4a9eff&line=4a9eff&point=c0c0c0)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
 ## 🐍 贡献
 
 <picture>
