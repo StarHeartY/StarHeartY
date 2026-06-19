@@ -105,6 +105,7 @@
 
 </div>
 
+
 ## 🐍 贡献
 
 <picture>
@@ -112,3 +113,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StarHeartY/StarHeartY/output/github-contribution-grid-snake.svg">
   <img alt="snake eating contributions" src="https://raw.githubusercontent.com/StarHeartY/StarHeartY/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-易睿-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yirui-dev)
