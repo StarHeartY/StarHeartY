@@ -91,9 +91,9 @@
 
 <div align="center">
 
-![StarHeartY 的常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=StarHeartY&layout=compact&theme=transparent)
+![StarHeartY 的常用语言](https://github-readme-stats-nine-swart-42.vercel.app/api/top-langs/?username=StarHeartY&layout=compact&theme=transparent)
 
-![GitHub 贡献](https://github-readme-stats.vercel.app/api?username=StarHeartY&show_icons=true&theme=transparent)
+![GitHub 贡献](https://github-readme-stats-nine-swart-42.vercel.app/api?username=StarHeartY&show_icons=true&theme=transparent)
 
 ![GitHub 连续贡献统计](https://github-readme-streak-stats.herokuapp.com/?user=StarHeartY&background=00000000&border=4a9eff&stroke=4a9eff&ring=4a9eff&fire=ff6600&currStreakNum=4a9eff&sideNums=4a9eff&dates=808080)
 
