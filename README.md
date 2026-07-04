@@ -46,7 +46,7 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="./assets/icons/skill-icons/html.svg" width="48" height="48" alt="HTML5" />
+      <img src="./assets/icons/skill-icons/HTML.svg" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
     <td align="center" width="96">
@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="./assets/icons/skill-icons/vscode-dark.svg" width="48" height="48" alt="VS Code" />
+      <img src="./assets/icons/skill-icons/VSCode-Dark.svg" width="48" height="48" alt="VS Code" />
       <br>VS Code
     </td>
     <td align="center" width="96">
@@ -64,11 +64,11 @@
       <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="./assets/icons/skill-icons/git.svg" width="48" height="48" alt="Git" />
+      <img src="./assets/icons/skill-icons/Git.svg" width="48" height="48" alt="Git" />
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="./assets/icons/skill-icons/nodejs-dark.svg" width="48" height="48" alt="Node.js" />
+      <img src="./assets/icons/skill-icons/NodeJS-Dark.svg" width="48" height="48" alt="Node.js" />
       <br>Node.js
     </td>
     <td align="center" width="96">
@@ -76,7 +76,7 @@
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="./assets/icons/skill-icons/vite-dark.svg" width="48" height="48" alt="Vite" />
+      <img src="./assets/icons/skill-icons/Vite-Dark.svg" width="48" height="48" alt="Vite" />
       <br>Vite
     </td>
   </tr>
