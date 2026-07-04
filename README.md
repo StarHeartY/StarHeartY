@@ -95,7 +95,7 @@
 
 ![GitHub 贡献](https://github-readme-stats-nine-swart-42.vercel.app/api?username=StarHeartY&show_icons=true&theme=transparent)
 
-![GitHub 连续贡献统计](https://github-readme-streak-stats.herokuapp.com/?user=StarHeartY&background=00000000&border=4a9eff&stroke=4a9eff&ring=4a9eff&fire=ff6600&currStreakNum=4a9eff&sideNums=4a9eff&dates=808080)
+![GitHub 连续贡献统计](https://github-readme-streak-stats-eta-kohl.vercel.app/?user=StarHeartY&background=00000000&border=4a9eff&stroke=4a9eff&ring=4a9eff&fire=ff6600&currStreakNum=4a9eff&sideNums=4a9eff&dates=808080)
 
 [![StarHeartY 的 GitHub 活动图](https://github-readme-activity-graph.vercel.app/graph?username=StarHeartY&bg_color=none&color=4a9eff&line=4a9eff&point=c0c0c0)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
