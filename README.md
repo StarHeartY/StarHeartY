@@ -50,7 +50,7 @@
       <br>HTML5
     </td>
     <td align="center" width="96">
-      <img src="./assets/icons/skill-icons/css.svg" width="48" height="48" alt="CSS" />
+      <img src="./assets/icons/skill-icons/CSS.svg" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
   </tr>
