@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="./assets/icons/skill-icons/VSCode-Dark.svg" width="65" height="65" alt="VS Code" />
+      <img src="./assets/icons/skill-icons/VSCode.svg" width="65" height="65" alt="VS Code" />
       <br>VS Code
     </td>
     <td align="center" width="96">
@@ -109,3 +109,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StarHeartY/StarHeartY/output/github-contribution-grid-snake.svg">
   <img alt="snake eating contributions" src="https://raw.githubusercontent.com/StarHeartY/StarHeartY/output/github-contribution-grid-snake.svg">
 </picture>
+
+
