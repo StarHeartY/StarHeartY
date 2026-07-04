@@ -23,65 +23,6 @@
 
 🔗 **官网**：[calcx.startyi.com](https://calcx.startyi.com)
 
-## 🛠️ 技术栈
-
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-      <br>Vite
-    </td>
-  </tr>
-</table>
-</div>
-
 
 ## 🛠️ 技术栈
 
@@ -105,17 +46,17 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="./assets/icons/html.svg" width="48" height="48" alt="HTML5" />
+      <img src="./assets/icons/skill-icons/html.svg" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
     <td align="center" width="96">
-      <img src="./assets/icons/css.svg" width="48" height="48" alt="CSS" />
+      <img src="./assets/icons/skill-icons/css.svg" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="./assets/icons/vscode.svg" width="48" height="48" alt="VS Code" />
+      <img src="./assets/icons/skill-icons/vscode-dark.svg" width="48" height="48" alt="VS Code" />
       <br>VS Code
     </td>
     <td align="center" width="96">
@@ -123,11 +64,11 @@
       <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="./assets/icons/git.svg" width="48" height="48" alt="Git" />
+      <img src="./assets/icons/skill-icons/git.svg" width="48" height="48" alt="Git" />
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="./assets/icons/nodejs.svg" width="48" height="48" alt="Node.js" />
+      <img src="./assets/icons/skill-icons/nodejs-dark.svg" width="48" height="48" alt="Node.js" />
       <br>Node.js
     </td>
     <td align="center" width="96">
@@ -135,7 +76,7 @@
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="./assets/icons/vite.svg" width="48" height="48" alt="Vite" />
+      <img src="./assets/icons/skill-icons/vite-dark.svg" width="48" height="48" alt="Vite" />
       <br>Vite
     </td>
   </tr>
