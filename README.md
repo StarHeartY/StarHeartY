@@ -1,20 +1,13 @@
+<div align="center">
+
 # StarHeartY
 
-> 个人开发者
+从一份好奇心出发，做出真正能用的东西。
 
-<div align="center">
-  <!-- 个人网站 -->
-  <a href="https://startyi.com">
-    <img src="https://img.shields.io/badge/Website-startyi.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-  <!-- 邮箱 -->
-  <a href="mailto:yirui.pre@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/yirui-dev">
-    <img src="https://img.shields.io/badge/LinkedIn-Yi_RUI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+[![Website](https://img.shields.io/badge/Website-startyi.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://startyi.com)
+[![Email](https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yirui.pre@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yi_RUI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yirui-dev)
+
 </div>
 
 ## 👋 关于我
