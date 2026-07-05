@@ -38,20 +38,20 @@
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="./assets/icons/js.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
+      <img src="./assets/icons/java.svg" width="65" height="65" alt="CSS" />
+      <br>Java
     </td>
     <td align="center" width="96">
       <img src="./assets/icons/ts.svg" alt="TypeScript" width="65" height="65" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="./assets/icons/skill-icons/HTML.svg" width="65" height="65" alt="HTML5" />
-      <br>HTML5
+      <img src="./assets/icons/js.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="./assets/icons/skill-icons/CSS.svg" width="65" height="65" alt="CSS" />
-      <br>CSS
+      <img src="./assets/icons/skill-icons/HTML.svg" width="65" height="65" alt="HTML5" />
+      <br>HTML5
     </td>
   </tr>
   <tr>
@@ -76,7 +76,7 @@
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="./assets/icons/skill-icons/Vite-Dark.svg" width="65" height="65" alt="Vite" />
+      <img src="./assets/icons/skill-icons/Vite.svg" width="65" height="65" alt="Vite" />
       <br>Vite
     </td>
   </tr>
