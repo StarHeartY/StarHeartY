@@ -2,7 +2,7 @@
   <h1 align="center">
     <a href="https://startyi.com/"><img src="https://img.startyi.com/profile-picture.png" width="190"></a>
 
-    StarHeartY
+StarHeartY
   </h1>
 从一份好奇心出发，做出真正能用的东西。
 
