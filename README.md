@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">
-    <a href="https://startyi.com/"><img src="https://img.startyi.com/profile-picture.png" width="190"></a>
+    <a href="https://startyi.com/"><img src="https://img.startyi.com/profile-picture.webp" width="190"></a>
 
 StarHeartY
 
