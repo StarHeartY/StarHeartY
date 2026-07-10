@@ -25,7 +25,7 @@ StarHeartY
 
 为HarmonyOS打造的**专业级符号计算器**，集成**Giac**与**SymEngine**双CAS引擎，支持微积分、符号运算与超大数计算。
 
-🔗 **官网**：[calcx.startyi.com](https://calcx.startyi.com)
+🔗 **官网**：<https://calcx.startyi.com>
 
 ## 🛠️ 技术栈
 
