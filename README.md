@@ -12,7 +12,6 @@ StarHeartY
 [![Email](https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yirui.pre@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yi_RUI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yirui-dev)
 
- 
 </div>
 
 ## 👋 关于我
@@ -88,10 +87,6 @@ StarHeartY
 </table>
 </div>
 
-
-
-
-
 ## 📊 统计
 
 <div align="center">
@@ -105,7 +100,6 @@ StarHeartY
 [![StarHeartY 的 GitHub 活动图](https://github-readme-activity-graph-flax-nu.vercel.app/graph?username=StarHeartY&bg_color=none&color=4a9eff&line=4a9eff&point=c0c0c0)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
 
 ## 🐍 贡献
 
