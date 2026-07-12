@@ -18,7 +18,6 @@ StarHeartY
 
 目前就读于 <img src="./assets/JNU-logo.svg" width="20" align="absmiddle" style="margin-right: 12px;" /> **[暨南大学(JNU)](https://www.jnu.edu.cn/)** ，热衷底层技术与跨端架构的独立开发者。
 
-
 ## 🚀 项目
 
 ### [CalculatorX](https://github.com/StarHeartY/CalculatorX) · 鸿蒙专业符号计算器 [![GitHub stars](https://img.shields.io/github/stars/StarHeartY/CalculatorX)](https://github.com/StarHeartY/CalculatorX)
