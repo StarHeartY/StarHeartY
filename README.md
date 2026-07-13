@@ -28,7 +28,6 @@ StarHeartY
 
 ## 🛠️ 技术栈
 
-
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
