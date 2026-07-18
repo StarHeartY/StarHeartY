@@ -106,5 +106,3 @@ StarHeartY
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StarHeartY/StarHeartY/output/github-contribution-grid-snake.svg">
   <img alt="snake eating contributions" src="https://raw.githubusercontent.com/StarHeartY/StarHeartY/output/github-contribution-grid-snake.svg">
 </picture>
-
-
