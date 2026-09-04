@@ -2,7 +2,7 @@
   <h1 align="center">
     <a href="https://startyi.com/"><img src="https://img.startyi.com/profile-picture2.webp" width="190"></a>
 
-StarHeartY
+StartYi
 
   </h1>
   
