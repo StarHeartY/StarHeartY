@@ -85,7 +85,8 @@ StartYi
 </table>
 </div>
 
-## 📊 统计
+<details>
+<summary><b>📊 统计</b></summary>
 
 <div align="center">
 
@@ -99,10 +100,15 @@ StartYi
 
 </div>
 
-## 🐍 贡献
+</details>
+
+<details>
+<summary><b>🐍 贡献</b></summary>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StarHeartY/StarHeartY/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StarHeartY/StarHeartY/output/github-contribution-grid-snake.svg">
   <img alt="snake eating contributions" src="https://raw.githubusercontent.com/StarHeartY/StarHeartY/output/github-contribution-grid-snake.svg">
 </picture>
+
+</details>
