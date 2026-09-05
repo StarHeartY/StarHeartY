@@ -86,7 +86,7 @@ StartYi
 </div>
 
 <details>
-<summary><b>📊 统计</b></summary>
+<summary><h2>📊 统计</h2></summary>
 
 <div align="center">
 
@@ -103,7 +103,7 @@ StartYi
 </details>
 
 <details>
-<summary><b>🐍 贡献</b></summary>
+<summary><h2>🐍 贡献</h2></summary>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StarHeartY/StarHeartY/output/github-contribution-grid-snake-dark.svg">
