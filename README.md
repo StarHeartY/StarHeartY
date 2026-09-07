@@ -6,7 +6,7 @@ StartYi
 
   </h1>
   
-从一份好奇心出发，做出真正能用的东西。
+从一份好奇心出发，做出真正有趣的东西。
 
 Building apps, websites and ideas.
 
