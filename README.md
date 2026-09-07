@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">
-    <a href="https://startyi.com/"><img src="https://img.startyi.com/avatar" width="190"></a>
+    <a href="https://startyi.com/"><img src="https://img.startyi.com/avatar.webp" width="190" alt="StartYi Avatar"></a>
 
 StartYi
 
