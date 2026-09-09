@@ -2,7 +2,7 @@
   <h1 align="center">
     <a href="https://startyi.com/"><img src="https://img.startyi.com/avatar.webp" width="190" alt="StartYi Avatar"></a>
     <br>
-    <a href="https://startyi.com/">StartYi</a>
+    <a>StartYi</a>
   </h1>
 
 从一份好奇心出发，做出真正有趣的东西。
