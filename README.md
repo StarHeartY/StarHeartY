@@ -108,9 +108,9 @@ Building apps, websites and ideas.
 <summary><h2>🐍 贡献</h2></summary>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StarHeartY/StarHeartY/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StarHeartY/StarHeartY/output/github-contribution-grid-snake.svg">
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/StarHeartY/StarHeartY/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StarHeartY/StarHeartY/snake/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StarHeartY/StarHeartY/snake/github-contribution-grid-snake.svg">
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/StarHeartY/StarHeartY/snake/github-contribution-grid-snake.svg">
 </picture>
 
 </details>
