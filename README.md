@@ -21,7 +21,7 @@ Building apps, websites and ideas.
 
 ## 🚀 项目
 
-### [CalculatorX](https://github.com/StarHeartY/CalculatorX) · 鸿蒙专业符号计算器 [![GitHub stars](https://img.shields.io/github/stars/StarHeartY/CalculatorX)](https://github.com/StarHeartY/CalculatorX)
+### [CalculatorX](https://github.com/StartYR/CalculatorX) · 鸿蒙专业符号计算器 [![GitHub stars](https://img.shields.io/github/stars/StartYR/CalculatorX)](https://github.com/StartYR/CalculatorX)
 
 为HarmonyOS打造的**专业级符号计算器**，集成**Giac**与**SymEngine**双CAS引擎，支持微积分、符号运算与超大数计算。
 
@@ -91,16 +91,16 @@ Building apps, websites and ideas.
 
 <div align="center">
 
-<img height="165" src="https://raw.githubusercontent.com/StarHeartY/StarHeartY/stats/github-stats.svg" alt="GitHub 贡献" />
-<img height="165" src="https://raw.githubusercontent.com/StarHeartY/StarHeartY/stats/languages.svg" alt="StarHeartY 的常用语言" />
+<img height="165" src="https://raw.githubusercontent.com/StartYR/StarHeartY/stats/github-stats.svg" alt="GitHub 贡献" />
+<img height="165" src="https://raw.githubusercontent.com/StartYR/StarHeartY/stats/languages.svg" alt="StartYR 的常用语言" />
 
-![GitHub 连续贡献统计](https://raw.githubusercontent.com/StarHeartY/StarHeartY/stats/streak.svg)
+![GitHub 连续贡献统计](https://raw.githubusercontent.com/StartYR/StarHeartY/stats/streak.svg)
 
-[![StarHeartY 的 GitHub 活动图](https://raw.githubusercontent.com/StarHeartY/StarHeartY/stats/activity.svg)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![StartYR 的 GitHub 活动图](https://raw.githubusercontent.com/StartYR/StarHeartY/stats/activity.svg)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StarHeartY/StarHeartY/stats/trophy-dark.svg">
-  <img width="95%" src="https://raw.githubusercontent.com/StarHeartY/StarHeartY/stats/trophy.svg" alt="StarHeartY 的 Trophy Board">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StartYR/StarHeartY/stats/trophy-dark.svg">
+  <img width="95%" src="https://raw.githubusercontent.com/StartYR/StarHeartY/stats/trophy.svg" alt="StartYR 的 Trophy Board">
 </picture>
 
 </div>
@@ -111,9 +111,9 @@ Building apps, websites and ideas.
 <summary><h2>🐍 贡献</h2></summary>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StarHeartY/StarHeartY/snake/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StarHeartY/StarHeartY/snake/github-contribution-grid-snake.svg">
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/StarHeartY/StarHeartY/snake/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StartYR/StarHeartY/snake/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StartYR/StarHeartY/snake/github-contribution-grid-snake.svg">
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/StartYR/StarHeartY/snake/github-contribution-grid-snake.svg">
 </picture>
 
 </details>

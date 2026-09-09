@@ -34,7 +34,7 @@ flowchart LR
 | `stats` | 两张基础统计图、连续贡献图、活动图、浅色与深色奖杯图 |
 | `snake` | 浅色与深色贪吃蛇动画 |
 
-README 使用 `https://raw.githubusercontent.com/StarHeartY/StarHeartY/分支名/文件名` 引用图片。生成图片不需要合并回 `main`，也无需启用 GitHub Pages；工作流中的发布 Action 用来将文件推送到指定分支。
+README 使用 `https://raw.githubusercontent.com/StartYR/StarHeartY/分支名/文件名` 引用图片。生成图片不需要合并回 `main`，也无需启用 GitHub Pages；工作流中的发布 Action 用来将文件推送到指定分支。
 
 ## 各张图如何生成
 

@@ -11,17 +11,17 @@ import xml.etree.ElementTree as ET
 CARDS = {
     "languages.svg": (
         "https://github-readme-stats-nine-swart-42.vercel.app/api/top-langs/"
-        "?username=StarHeartY&layout=compact&theme=transparent&hide_border=true",
+        "?username=StartYR&layout=compact&theme=transparent&hide_border=true",
         ("Most Used Languages",),
     ),
     "github-stats.svg": (
         "https://github-readme-stats-nine-swart-42.vercel.app/api"
-        "?username=StarHeartY&show_icons=true&theme=transparent&hide_border=true",
+        "?username=StartYR&show_icons=true&theme=transparent&hide_border=true",
         ("Total Stars", "Total Commits"),
     ),
     "activity.svg": (
         "https://github-readme-activity-graph-flax-nu.vercel.app/graph"
-        "?username=StarHeartY&bg_color=none&color=4a9eff&line=4a9eff&point=c0c0c0",
+        "?username=StartYR&bg_color=none&color=4a9eff&line=4a9eff&point=c0c0c0",
         ("Days", "Contributions"),
     ),
 }
@@ -47,7 +47,7 @@ def download_card(url, required_labels):
     for attempt in range(4):
         try:
             request = urllib.request.Request(
-                url, headers={"User-Agent": "StarHeartY-profile-stats"}
+                url, headers={"User-Agent": "StartYR-profile-stats"}
             )
             with urllib.request.urlopen(request, timeout=45) as response:
                 data = response.read()

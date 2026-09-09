@@ -52,7 +52,7 @@ def request_user(login, cursor, token):
             request = urllib.request.Request(
                 "https://api.github.com/graphql", data=payload,
                 headers={"Authorization": f"Bearer {token}",
-                         "Content-Type": "application/json", "User-Agent": "StarHeartY-trophy"},
+                         "Content-Type": "application/json", "User-Agent": "StartYR-trophy"},
             )
             with urllib.request.urlopen(request, timeout=45) as response:
                 result = json.load(response)
@@ -130,7 +130,7 @@ text {{ font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--username", default="StarHeartY")
+    parser.add_argument("--username", default="StartYR")
     parser.add_argument("--output", type=Path, default=Path("dist"))
     args = parser.parse_args()
     token = os.environ.get("GITHUB_TOKEN")

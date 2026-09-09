@@ -21,27 +21,27 @@ class TrophyTests(unittest.TestCase):
         pages = [page([{"stargazerCount": 2, "forkCount": 1}] * 100, True, "next"),
                  page([{"stargazerCount": 10, "forkCount": 4}])]
         with patch.object(trophy, "request_user", side_effect=pages) as request:
-            stats = trophy.fetch_stats("StarHeartY", "test", datetime(2026, 9, 9, tzinfo=timezone.utc))
+            stats = trophy.fetch_stats("StartYR", "test", datetime(2026, 9, 9, tzinfo=timezone.utc))
         self.assertEqual(stats, dict(stars=210, forks=104, repos=101,
                                      followers=7, contributions=2345, years=5))
         self.assertEqual(request.call_args.args[1], "next")
 
     def test_anniversary_and_zero_repositories(self):
         with patch.object(trophy, "request_user", return_value=page([])):
-            stats = trophy.fetch_stats("StarHeartY", "test", datetime(2026, 9, 10, tzinfo=timezone.utc))
+            stats = trophy.fetch_stats("StartYR", "test", datetime(2026, 9, 10, tzinfo=timezone.utc))
         self.assertEqual(stats["years"], 6)
         self.assertEqual(stats["stars"], 0)
 
     def test_rejects_broken_pagination(self):
         with patch.object(trophy, "request_user", return_value=page([], True, None)):
             with self.assertRaises(ValueError):
-                trophy.fetch_stats("StarHeartY", "test")
+                trophy.fetch_stats("StartYR", "test")
 
     def test_graphql_partial_errors_are_not_published(self):
         with patch.object(trophy.urllib.request, "urlopen"), patch.object(
             trophy.json, "load", return_value={"data": {"user": page([])}, "errors": [{"message": "failed"}]}
         ), patch.object(trophy.time, "sleep"), self.assertRaises(ValueError):
-            trophy.request_user("StarHeartY", None, "test")
+            trophy.request_user("StartYR", None, "test")
 
     def test_both_themes_have_six_colored_medals_and_no_background_rect(self):
         stats = dict(stars=1234567, repos=0, followers=123, forks=40, contributions=5000, years=6)
