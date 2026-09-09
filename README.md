@@ -118,3 +118,5 @@ Building apps, websites and ideas.
 </picture>
 
 </details>
+
+[这个主页是如何制作的？](PROFILE_GUIDE.md)
