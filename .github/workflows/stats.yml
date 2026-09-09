@@ -1,0 +1,44 @@
+name: Update profile stats
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/stats.yml"
+      - "scripts/profile_stats.py"
+      - "README.md"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=StarHeartY&background=00000000&border=4a9eff&stroke=4a9eff&ring=4a9eff&fire=ff6600&currStreakNum=4a9eff&sideNums=4a9eff&dates=808080
+          path: dist/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Download and validate stats
+        run: python3 scripts/profile_stats.py dist
+
+      - name: Publish stats
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: stats
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
