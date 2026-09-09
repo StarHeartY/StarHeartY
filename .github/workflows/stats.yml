@@ -9,6 +9,8 @@ on:
     paths:
       - ".github/workflows/stats.yml"
       - "scripts/profile_stats.py"
+      - "scripts/trophy.py"
+      - "scripts/test_trophy.py"
       - "README.md"
 
 permissions:
@@ -24,6 +26,14 @@ jobs:
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
+
+      - name: Test trophy generation
+        run: python3 -B -m unittest scripts.test_trophy
+
+      - name: Generate trophy board
+        run: python3 scripts/trophy.py --username StarHeartY --output dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate streak stats
         uses: DenverCoder1/github-readme-streak-stats@main

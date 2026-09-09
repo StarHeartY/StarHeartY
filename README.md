@@ -99,6 +99,11 @@ Building apps, websites and ideas.
 
 [![StarHeartY 的 GitHub 活动图](https://raw.githubusercontent.com/StarHeartY/StarHeartY/stats/activity.svg)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StarHeartY/StarHeartY/stats/trophy-dark.svg">
+  <img width="95%" src="https://raw.githubusercontent.com/StarHeartY/StarHeartY/stats/trophy.svg" alt="StarHeartY 的 Trophy Board">
+</picture>
+
 </div>
 
 </details>
