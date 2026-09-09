@@ -11,12 +11,12 @@ import xml.etree.ElementTree as ET
 CARDS = {
     "languages.svg": (
         "https://github-readme-stats-nine-swart-42.vercel.app/api/top-langs/"
-        "?username=StarHeartY&layout=compact&theme=transparent",
+        "?username=StarHeartY&layout=compact&theme=transparent&hide_border=true",
         ("Most Used Languages",),
     ),
     "github-stats.svg": (
         "https://github-readme-stats-nine-swart-42.vercel.app/api"
-        "?username=StarHeartY&show_icons=true&theme=transparent",
+        "?username=StarHeartY&show_icons=true&theme=transparent&hide_border=true",
         ("Total Stars", "Total Commits"),
     ),
     "activity.svg": (
