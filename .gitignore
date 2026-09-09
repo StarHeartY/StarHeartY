@@ -1,0 +1,10 @@
+# Python 缓存与虚拟环境
+__pycache__/
+*.py[cod]
+.venv/
+
+# 本地生成的图表
+/dist/
+
+# IDE 配置
+.idea/
