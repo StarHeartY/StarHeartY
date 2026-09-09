@@ -2,7 +2,7 @@
   <h1 align="center">
     <a href="https://startyi.com/"><img src="https://img.startyi.com/avatar.webp" width="190" alt="StartYi Avatar"></a>
 
-StartYi
+<a href="https://startyi.com/">StartYi</a>
 
   </h1>
   
@@ -118,4 +118,3 @@ Building apps, websites and ideas.
 </picture>
 
 </details>
-

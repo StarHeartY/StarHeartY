@@ -113,4 +113,4 @@ git diff --check
 
 不要只在生成分支手动修图：下一次 Actions 发布会覆盖它。长期修改应落在 `main` 中的生成脚本或工作流参数上。
 
-[返回个人主页](README.md)
+[⇦ 返回 README](README.md)
