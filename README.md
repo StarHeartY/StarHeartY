@@ -1,11 +1,10 @@
 <div align="center">
   <h1 align="center">
     <a href="https://startyi.com/"><img src="https://img.startyi.com/avatar.webp" width="190" alt="StartYi Avatar"></a>
-
-<a href="https://startyi.com/">StartYi</a>
-
+    <br>
+    <a href="https://startyi.com/">StartYi</a>
   </h1>
-  
+
 从一份好奇心出发，做出真正有趣的东西。
 
 Building apps, websites and ideas.
