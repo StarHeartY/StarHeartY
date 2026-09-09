@@ -92,9 +92,8 @@ Building apps, websites and ideas.
 
 <div align="center">
 
-![StarHeartY 的常用语言](https://raw.githubusercontent.com/StarHeartY/StarHeartY/stats/languages.svg)
-
-![GitHub 贡献](https://raw.githubusercontent.com/StarHeartY/StarHeartY/stats/github-stats.svg)
+<img height="190" src="https://raw.githubusercontent.com/StarHeartY/StarHeartY/stats/github-stats.svg" alt="GitHub 贡献" />
+<img height="190" src="https://raw.githubusercontent.com/StarHeartY/StarHeartY/stats/languages.svg" alt="StarHeartY 的常用语言" />
 
 ![GitHub 连续贡献统计](https://raw.githubusercontent.com/StarHeartY/StarHeartY/stats/streak.svg)
 
