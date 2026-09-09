@@ -13,7 +13,7 @@
 - `<img>` 控制图片尺寸；GitHub Stats 和 Most Used Languages 都设置 `height="165"`，宽度按原比例计算。两张图片相邻排列，空间不足时可能换行。
 - `<picture>` 根据浅色、深色偏好选择 Trophy Board 和贪吃蛇的图片。
 
-头像来自 `img.startyi.com`，链接徽章来自 Shields.io；统计图则读取本仓库生成分支中的文件。
+头像来自 `img.startyi.com`；三个链接徽章保存在 `assets/badges/`，由 Shields.io 样式调整为 7px 圆角；统计图则读取本仓库生成分支中的文件。
 
 ## 为什么把图片保存在分支中
 
