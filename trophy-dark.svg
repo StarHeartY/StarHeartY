@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="215" viewBox="0 0 960 215" role="img" aria-labelledby="title description">
+<title id="title">Trophy Board</title>
+<desc id="description">Public original repositories, their stars and forks, followers, contributions in the past year, and completed years on GitHub.</desc>
+<style>
+text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; text-anchor: middle; }
+.heading { fill: #e6edf3; font-size: 20px; font-weight: 600; text-anchor: start; }
+.value { fill: #e6edf3; font-size: 28px; font-weight: 600; }
+.label { fill: #e6edf3; font-size: 13px; }
+.detail { fill: #919ba8; font-size: 11px; }
+</style>
+<text x="18" y="26" class="heading">Trophy Board</text>
+<g transform="translate(80,0)">
+  <title>Stars: 11 (public originals)</title>
+  <path d="m-19 88-6 28 15-6 10 8 8-8 15 6-6-28" fill="#f2c14e" opacity=".22"/>
+  <circle cy="76" r="29" fill="#f2c14e" fill-opacity=".10" stroke="#f2c14e" stroke-width="1.5"/>
+  <g transform="translate(-12,64)" fill="none" stroke="#f2c14e" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m12 2 3 6 7 1-5 5 1 7-6-3-6 3 1-7-5-5 7-1Z"/></g>
+  <text y="153" class="value">11</text>
+  <text y="178" class="label">Stars</text>
+  <text y="196" class="detail">public originals</text>
+</g><g transform="translate(240,0)">
+  <title>Repositories: 13 (public originals)</title>
+  <path d="m-19 88-6 28 15-6 10 8 8-8 15 6-6-28" fill="#60a5fa" opacity=".22"/>
+  <circle cy="76" r="29" fill="#60a5fa" fill-opacity=".10" stroke="#60a5fa" stroke-width="1.5"/>
+  <g transform="translate(-12,64)" fill="none" stroke="#60a5fa" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="3" width="16" height="18" rx="2"/><path d="M8 3v18M11 8h5M11 12h5"/></g>
+  <text y="153" class="value">13</text>
+  <text y="178" class="label">Repositories</text>
+  <text y="196" class="detail">public originals</text>
+</g><g transform="translate(400,0)">
+  <title>Followers: 3 (community)</title>
+  <path d="m-19 88-6 28 15-6 10 8 8-8 15 6-6-28" fill="#c084fc" opacity=".22"/>
+  <circle cy="76" r="29" fill="#c084fc" fill-opacity=".10" stroke="#c084fc" stroke-width="1.5"/>
+  <g transform="translate(-12,64)" fill="none" stroke="#c084fc" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8" r="3"/><path d="M3 21v-3a6 6 0 0 1 12 0v3M16 5a3 3 0 0 1 0 6M18 14a5 5 0 0 1 3 5v2"/></g>
+  <text y="153" class="value">3</text>
+  <text y="178" class="label">Followers</text>
+  <text y="196" class="detail">community</text>
+</g><g transform="translate(560,0)">
+  <title>Forks: 2 (of public originals)</title>
+  <path d="m-19 88-6 28 15-6 10 8 8-8 15 6-6-28" fill="#34d399" opacity=".22"/>
+  <circle cy="76" r="29" fill="#34d399" fill-opacity=".10" stroke="#34d399" stroke-width="1.5"/>
+  <g transform="translate(-12,64)" fill="none" stroke="#34d399" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><circle cx="6" cy="5" r="2"/><circle cx="18" cy="5" r="2"/><circle cx="12" cy="20" r="2"/><path d="M6 7v3c0 4 12 4 12 0V7M12 13v5"/></g>
+  <text y="153" class="value">2</text>
+  <text y="178" class="label">Forks</text>
+  <text y="196" class="detail">of public originals</text>
+</g><g transform="translate(720,0)">
+  <title>Contributions: 1,837 (past year)</title>
+  <path d="m-19 88-6 28 15-6 10 8 8-8 15 6-6-28" fill="#fb923c" opacity=".22"/>
+  <circle cy="76" r="29" fill="#fb923c" fill-opacity=".10" stroke="#fb923c" stroke-width="1.5"/>
+  <g transform="translate(-12,64)" fill="none" stroke="#fb923c" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M2 13h5l3-9 4 17 3-8h5"/></g>
+  <text y="153" class="value">1,837</text>
+  <text y="178" class="label">Contributions</text>
+  <text y="196" class="detail">past year</text>
+</g><g transform="translate(880,0)">
+  <title>Years on GitHub: 1 (completed years)</title>
+  <path d="m-19 88-6 28 15-6 10 8 8-8 15 6-6-28" fill="#f472b6" opacity=".22"/>
+  <circle cy="76" r="29" fill="#f472b6" fill-opacity=".10" stroke="#f472b6" stroke-width="1.5"/>
+  <g transform="translate(-12,64)" fill="none" stroke="#f472b6" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M7 2v6M17 2v6M3 11h18M8 15h2M14 15h2"/></g>
+  <text y="153" class="value">1</text>
+  <text y="178" class="label">Years on GitHub</text>
+  <text y="196" class="detail">completed years</text>
+</g>
+</svg>
